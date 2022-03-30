@@ -14,7 +14,7 @@ public class Main {
         char space = 32;
         boolean chairsIsLot = chairs > 100;
         System.out.println (chairsIsLot);
-
+        System.out.println (space);
         // Задание 2
 
         byte boxers = 2;
@@ -26,7 +26,7 @@ public class Main {
         float differenceBoxersWeight = twoBoxerWeight - oneBoxersWeight;
         System.out.println ("Общий вес двух бойцов " + "= " + totalBoxersWeight);
         System.out.println ("Разницу между весами бойцов " + "=" + differenceBoxersWeight);
-
+        System.out.println (space);
         // Задача 3
 
         short bananas = 5;
@@ -43,7 +43,7 @@ public class Main {
         float breakfastKg = breakfast / 1000f;
         System.out.println ("Вес спорт-завтрака в граммах " + "= " + breakfast);
         System.out.println ("Вес спорт-завтрака в килограммах " + "= " + breakfastKg);
-
+        System.out.println (space);
          // Задача 4
 
         byte needLooseKg = 7;
@@ -59,7 +59,7 @@ public class Main {
         System.out.println ("Дней уйдет если худеть по 250 гр " + "- " + howManyDays250);
         System.out.println ("Дней уйдет если худеть по 500 гр " + "- " + howManyDays500);
         System.out.println ("Дней уйдет в среднем " + "- " + needMiddleDays);
-
+        System.out.println (space);
         // Задача 5
 
         double salaryMasha = 67760;
