@@ -62,9 +62,9 @@ public class Main {
 
         // Задача 5
 
-        double salaryMasha = 67.760;
-        double salaryDenis = 83.690;
-        double salaryKristina = 76.230;
+        double salaryMasha = 67760;
+        double salaryDenis = 83690;
+        double salaryKristina = 76230;
         double increaseBy10PercentM = salaryMasha * 10 / 100;
         double increaseBy10PercentD = salaryDenis * 10 / 100;
         double increaseBy10PercentK = salaryKristina * 10 / 100;
